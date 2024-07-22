@@ -26,8 +26,10 @@ public class intro{
 
         String name="Welcome to vs code";
         System.out.println(name+" "+str);
-
         
 
+        
+        scanner.close();
     }
 }
+
