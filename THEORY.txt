@@ -1,0 +1,31 @@
+features of java
+--simple -> easy to use , easy to learn
+
+--java -> purely object oriented , c++ not purely object oriented
+
+-- class -> is a collction of various mathods and members
+
+--platform independent -> compiled file can run on any device mac/os window linux through jvm
+        a program made from java will run on all device , but in c++ it only runs on present code
+
+--secured -> best for security, develop virus-free systems 
+   -- no explicit pointer
+   --java program run inside a virtual machine sandbox
+
+--robust(strong) -> is uses strong memory management
+                 ->automatic garbage collection(releases memory automatically which is not used)
+
+
+--architectural-neural -> in c programming , two-architecture 32 bit and 64 bit 
+                          but in java only 64 bit , both will run on 64 only ,(32bit and 64bit)
+                    
+
+--portable -> faciliates you to carry .exe files because because it can run on every device
+
+--distributes -> this feature of java makes us able to access files by calling the methods from any machine on the internet
+
+--multi-threaded -> a thread is like a seperate program,executing concurrently.we can write java
+                that deals with many tasks at once by defining multiple threads.
+
+--dynamic --> java is a dynamic language . it supports the dynamic loading of classes.classes are loaded
+              on demand it also support functions from its native language like c and c++
