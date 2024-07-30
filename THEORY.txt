@@ -29,3 +29,18 @@ features of java
 
 --dynamic --> java is a dynamic language . it supports the dynamic loading of classes.classes are loaded
               on demand it also support functions from its native language like c and c++
+
+-- normal vs jagged array --
+
+normal -> int [][] a=, new int [2][3]; 
+occupy more memory
+time complexity less
+
+
+jagged array -> int [][] a= ,new int[2][]; 
+columns are decided at run time 
+less memory required
+time complexity more
+
+
+

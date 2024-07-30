@@ -76,19 +76,19 @@ public class intro{
         // 2)write a java program to print random number in the range given by user
        
         //1)
-        // int start = scanner.nextInt();
-        // int end = scanner.nextInt();
-        // for(int i=start;i<end;i++){
-        //     boolean flag=true;
-        //     for(int j=2;j<i;j++){
-        //         if(i%j==0){
-        //              flag=false;
-        //         }
-        //     }
-        //     if(flag){
-        //         System.out.println(i+" ");
-        //     }
-        // }
+        int start = scanner.nextInt();
+        int end = scanner.nextInt();
+        for(int i=start;i<end;i++){
+            boolean flag=true;
+            for(int j=2;j<i;j++){
+                if(i%j==0){
+                     flag=false;
+                }
+            }
+            if(flag){
+                System.out.println(i+" ");
+            }
+        }
 
         //2)
         // Random rand = new Random();
@@ -97,8 +97,9 @@ public class intro{
 
         // System.out.println(a);
 
+        //write a java program to implement the functionality atm machine in which the operation
+        //is chpoosen by the user any operation should be choose by user
 
-        
         scanner.close();
     }
 }
