@@ -5,7 +5,7 @@ public class Basic_patterns {
         Scanner scanner= new Scanner(System.in);
 
         System.out.print("Enter the number of rows: ");
-        int num=scanner.nextInt();
+      //   int num=scanner.nextInt();
 
         //square hollow patterns
 
